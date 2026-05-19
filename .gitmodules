@@ -1,0 +1,3 @@
+[submodule "odin2"]
+	path = odin2
+	url = git@github.com:bedwards/odin2.git
